@@ -8,7 +8,7 @@ We specialize in Discord bot ecosystems, flight simulation tooling, and modern i
 
 ## Mission
 
-FlyRust exists to bridge the gap between passionate communities and the tools they need to thrive. Whether you're managing a roleplay server with 58k members or building the future of flight simulation analytics, we're committed to delivering infrastructure that scales, integrates seamlessly, and stays out of the way.
+FlyRust exists to bridge the gap between passionate communities and the tools they need to thrive. Whether you're managing a roleplay server, or a community of 6 million, we're committed to delivering infrastructure that scales, integrates seamlessly, and stays out of the way.
 
 We believe in:
 - **Performance first**: Real-time systems demand efficiency. We measure everything.
