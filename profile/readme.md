@@ -2,7 +2,7 @@
 
 **A boutique development organization focused on building the next generation of automation, real-time systems, and community infrastructure.**
 
-We specialize in Discord bot ecosystems, flight simulation tooling, and modern infrastructure built on Rust and TypeScript. Our projects power communities ranging from 10k to 100k+ users, with an emphasis on performance, reliability, and elegant architecture.
+We specialize in Discord bot ecosystems, flight simulation tooling, and modern infrastructure built on Rust and TypeScript. Our projects power communities ranging from 10k to 50k+ users, with an emphasis on performance, reliability, and elegant architecture.
 
 ---
 
