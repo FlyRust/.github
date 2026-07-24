@@ -198,12 +198,10 @@ We maintain a selective contribution model:
 ## Roadmap
 
 ### Q4 2026
-- **FlyRust Copilot**: Production release with full feature set
-- **Dashboard Enhancement**: Advanced flight analytics and trend analysis
-- **VATSIM Integration**: Flight tracking and network presence
+- **FlyRust Copilot**: Beta Release
+- **erlc.eu.org**: Community run domain service for ER:LC developers, similar to https://freedns.afraid.org
 
 ### 2027 Goals
-- Hardware integration: Logitech G29 racing wheel as motorized autothrust quadrant
 - Expanded copilot personality system
 - Community flight share platform
 - Extended X-Plane aircraft type support
