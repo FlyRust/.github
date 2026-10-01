@@ -32,7 +32,7 @@ A next-generation web radio platform purpose-built for the ER:LC Roblox roleplay
 - **Modern Frontend**: Responsive design with live player, schedule, and DJ analytics
 - **Production Deployment**: Render-hosted with automated CI/CD pipelines
 
-**Status**: Launched & actively maintained. Available at https://erlcfm.24-7.ro
+**Status**: Launched & actively maintained. Available at https://fm.erlc.dev
 
 **Why erlc.fm exists**: The ER:LC community deserved a radio station built for roleplay immersion, not a band-aid streaming solution. erlc.fm delivers transparent backend transparency, real-time stats, and admin tooling that actually understands roleplay workflows.
 
@@ -50,12 +50,12 @@ A Spotify-like dashboard ecosystem that centralizes Discord bot data and music s
 - **User Profiles**: Track listening history, playlists, and personalized recommendations
 - **Real-Time Sync**: Live updates across dashboard and Discord bot commands
 
-**Status**: Production. Live at https://naxify.bot.nu
+**Status**: Production. Live at https://y-o-o.cc.cd
 
 **Why Naxify exists**: Discord bots scattered across different dashboards suck. Naxify consolidates music management and bot orchestration into something that actually feels coherent.
 
 ### **The Ayy Team Utilities** — *Closed Source*
-Core infrastructure powering theayyteam Discord server (60k+ members, and a community of 6+ million).
+Core infrastructure powering theayyteam Discord server (70k+ members, and a community of 6+ million).
 
 **Tech Stack**: Discord.js v14, TypeScript, MongoDB
 
@@ -65,7 +65,7 @@ Core infrastructure powering theayyteam Discord server (60k+ members, and a comm
 - User analytics and member engagement tracking
 - Integration middleware for ecosystem coordination
 
-**Operational Scope**: 24/7 uptime, sub-100ms latency on critical operations, real-time event processing for 58k+ member base.
+**Operational Scope**: 24/7 uptime, sub-100ms latency on critical operations, real-time event processing for 70k+ member base.
 
 ---
 
